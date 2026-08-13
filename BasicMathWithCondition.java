@@ -1,4 +1,4 @@
-public class SimpleProgram {
+public class BasicMathWithCondition {
     public static void main(String[] args) {
         int number1 = 10;
         int number2 = 5;
